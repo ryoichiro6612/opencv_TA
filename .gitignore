@@ -1,3 +1,5 @@
-!*.*
 *.avi
 *.pdf
+*.jpg
+!fruits.jpg
+!(*.*)

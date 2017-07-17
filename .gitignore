@@ -1,6 +1,11 @@
+exe/
+
 *.avi
 *.pdf
 *.jpg
 !fruits.jpg
-
-!(*.*)
+sample1
+sample1_2
+sample1_3
+sample1_4
+sample1_5
